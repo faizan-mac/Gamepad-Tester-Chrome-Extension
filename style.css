@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 14px;
+    background-color: whitesmoke;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.input_read {
+    font-weight: bolder;
+    color: green;
+}
+
+#ok {
+    font-weight: bolder;
+    color: green;
+    display: none;
+}
+
+h2 {
+    margin: 5px;
+}
