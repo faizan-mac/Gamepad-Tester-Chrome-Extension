@@ -2,7 +2,7 @@
 * Displays and records the status of gamepad inputs
 
 # How to Run
-* Clone or download the repo and extract it.
+* Clone or download the repo and extract it
 * In Google Chrome navigate to the "Settings" then "Extensions" and enable "Developer Mode"
 * Select "Load unpacked" and select the repo folder to load the extension
 
